@@ -12,7 +12,7 @@ InvisiMerge_Sprite 是一个文件隐藏工具，支持将 ZIP 文件伪装成�
 
 ## 📥 下载与安装
 1. **⬇️ 下载**
-   - 你可以从 [Releases](https://github.com/your-username/your-repo/releases) 页面获取最新版本。
+   - 你可以从 [Releases](https://github.com/ItsTimeTooSleep/InvisiMerge-Sprite/releases/tag/v1.0) 页面获取最新版本。
    
 2. **▶️ 运行**
    - 下载 `InvisiMerge_Sprite.exe` 可执行文件并运行。
@@ -41,7 +41,7 @@ InvisiMerge_Sprite 是一个文件隐藏工具，支持将 ZIP 文件伪装成�
 5. 🔀 提交 Pull Request。
 
 ## 💬 反馈与支持
-如果你发现了 Bug 🐛，或者有改进建议 💡，请提交 [Issue](https://github.com/your-username/your-repo/issues)。
+如果你发现了 Bug 🐛，或者有改进建议 💡，请提交 [Issue](https://github.com/ItsTimeTooSleep/InvisiMerge-Sprite/issues)。
 
 如果你觉得这个项目对你有帮助，欢迎 **Star ⭐** 支持！
 
